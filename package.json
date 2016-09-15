@@ -1,6 +1,6 @@
 {
   "name": "cordova-phaser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A reference for creating cordova-phaser app templates.",
   "main": "index.js",
   "scripts": {

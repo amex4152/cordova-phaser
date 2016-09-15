@@ -31,7 +31,7 @@ BasicGame.Preloader.prototype = {
 		//	You can find all of these assets in the Phaser Examples repository
 
 		this.load.image('starfield', 'assets/images/starfield.png');
-		this.load.audio('bgm', 'assets/audio/menusci-fi1.ogg');
+		this.load.audio('bgm', ['assets/audio/menusci-fi1.ogg', 'assets/audio/menusci-fi1.mp3']);
 
 	},
 
