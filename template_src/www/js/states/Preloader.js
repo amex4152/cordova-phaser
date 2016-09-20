@@ -31,6 +31,9 @@ BasicGame.Preloader.prototype = {
 		//	You can find all of these assets in the Phaser Examples repository
 
 		this.load.image('starfield', 'assets/images/starfield.png');
+
+		// Audio track Attribution (menu sci-fi 1.ogg, CC 3.0)
+		// Alexandr-Zhelanov: https://soundcloud.com/alexandr-zhelanov 
 		this.load.audio('bgm', ['assets/audio/menusci-fi1.ogg', 'assets/audio/menusci-fi1.mp3']);
 
 	},

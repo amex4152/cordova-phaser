@@ -22,8 +22,14 @@ cordova prepare
 This template is based on the *Responsive* template of Phaser project, and uses crosswalk webview plugin, installs *android* and *browser* cordova platforms.
 Includes a .gitignore file.
 
-Audio track Attribution (menu sci-fi 1.ogg, CC 3.0)
+This template works with iOS, if the requirements for cordova-cli are previously fulfilled, and iOS platform is added. Optionally you could remove android platform and crosswalk plugin.
 
-[Alexandr-Zhelanov](https://soundcloud.com/alexandr-zhelanov)
+Add iOS Platform:
+
+ `cordova platform add iOS`
+
+ Remove Android Platform:
+
+ `cordova platform remove android`
 
  
