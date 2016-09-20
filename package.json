@@ -1,6 +1,6 @@
 {
   "name": "cordova-phaser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A cordova-cli template for phaser games, Aimed to Android deployment.",
   "main": "index.js",
   "scripts": {
