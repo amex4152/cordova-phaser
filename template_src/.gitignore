@@ -1,6 +1,7 @@
 platforms
 plugins
 .vscode
+.DS_Store
 
 # Android
 # platforms/android/assets/www
