@@ -23,12 +23,4 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <engine name="android" spec="~5.2.2" />
-    <preference name="xwalkVersion" value="20+" />
-    <preference name="xwalkCommandLine" value="--disable-pull-to-refresh-effect" />
-    <preference name="xwalkMode" value="embedded" />
-    <preference name="xwalkMultipleApk" value="true" />
-    <preference name="android-minSdkVersion" value="16" />
-    <plugin name="cordova-plugin-crosswalk-webview" spec="~2.0.0" />
-    <engine name="browser" spec="~4.1.0" />
 </widget>
